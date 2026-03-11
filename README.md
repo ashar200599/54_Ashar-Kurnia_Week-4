@@ -28,12 +28,21 @@ A complete Deseq2 analysis, GO enrichment and KEGG pathway analysis using RNA-se
 ## Results
 
 ### Volcano Plot
-![Volcano Plot](result/Volcano Plot.png)
-
-### PCA Plot
-![PCA Plot](files/plots/pca_plot.png)
+![Volcano Plot](https://github.com/ashar200599/54_Ashar-Kurnia_Week-4/blob/d242bc77895617cd65e2355efb57606d8afcd625/result/Volcano%20Plot.png)
 
 ### Heatmap
-![Heatmap](files/plots/heatmap_top50_DEGs.png)
+![Heatmap](https://github.com/ashar200599/54_Ashar-Kurnia_Week-4/blob/d242bc77895617cd65e2355efb57606d8afcd625/result/Heatmap.png)
+
+### GO Biological Process (BP)
+![GO BP](https://github.com/ashar200599/54_Ashar-Kurnia_Week-4/blob/d242bc77895617cd65e2355efb57606d8afcd625/result/GO%20barplot_BP.png)
+
+### GO Molecular Function (MF)
+![GO MF](https://github.com/ashar200599/54_Ashar-Kurnia_Week-4/blob/d242bc77895617cd65e2355efb57606d8afcd625/result/GO%20barplot_MF.png)
+
+### GO Cellular Component (CC)
+![GO CC](https://github.com/ashar200599/54_Ashar-Kurnia_Week-4/blob/d242bc77895617cd65e2355efb57606d8afcd625/result/GO%20barplot_CC.png)
+
+### KEGG pathway
+![KEGG](https://github.com/ashar200599/54_Ashar-Kurnia_Week-4/blob/d242bc77895617cd65e2355efb57606d8afcd625/result/KEGG_TGF-beta_signaling_pathway_List_1_2026-03-01.png)
 
 ---
