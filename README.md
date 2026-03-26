@@ -14,7 +14,7 @@ A complete Deseq2 analysis, GO enrichment and KEGG pathway analysis using RNA-se
 
 ## 🧬 Biological Question
 
-> What 10 top gene expressions changed significantly in BMP signalling in ovarian cancer patients?
+> What happens to cell when they are given BMP treatment?
 
 | | |
 |---|---|
